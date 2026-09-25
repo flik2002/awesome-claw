@@ -67,6 +67,16 @@ This repository serves as a **central directory** for discovering, comparing, an
 
 <br />
 
+### 🛠️ Ecosystem & Tools
+
+Monitoring and developer tools built for the Claw ecosystem:
+
+| Project | Description | Repo |
+|:--------|:------------|:-----|
+| **OpenClaw Monitor** | Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts | [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) |
+
+<br />
+
 ---
 
 ## 🤝 Contributing
